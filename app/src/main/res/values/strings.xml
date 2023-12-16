@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">FoodieApp</string>
+    <string name="title_recipes">Recipes</string>
+    <string name="title_planner">Planner</string>
+    <string name="title_blog">Blog</string>
+    <string name="title_contact">Social</string>
+    <string name="title_profile">Profile</string>
+    <string name="username">Username (required)</string>
+    <string name="username_hint">Username</string>
+    <string name="password">Password (required)</string>
+    <string name="password_hint">Password</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="create_a_new_account">Create a new account</string>
+    <string name="sign_in_title">Sign in to your account</string>
+    <string name="firstname">Firstname</string>
+    <string name="create">Create</string>
+    <string name="create_your_account">Create your account</string>
+    <string name="preference_token_key">UserCredential</string>
+    <string name="instruction">Instruction</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="ingredient">Ingredient</string>
+    <string name="amount">Amount</string>
+    <string name="measure">Measure</string>
+    <string name="cookingTime">Cooking Time</string>
+    <string name="add">+</string>
+    <string name="add_new_recipe">Add new Recipe</string>
+    <string name="fill_the_form">Fill out the form</string>
+    <string name="tags">Tags</string>
+    <string name="content">Content</string>
+    <string name="tag">Tag</string>
+    <string name="breakfast">Breakfast:</string>
+    <string name="lunch">Lunch:</string>
+    <string name="dinner">Dinner:</string>
+    <string name="plan_label">Name your plan</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="email_hint">Email</string>
+    <string name="phone_hint">Phone</string>
+    <string-array name="Measures">
+        <item>TSP</item>
+        <item>TBSP</item>
+        <item>OZ</item>
+        <item>PINT</item>
+        <item>CUP</item>
+        <item>GAL</item>
+        <item>G</item>
+    </string-array>
+</resources>
